@@ -18,6 +18,7 @@ Part 2: Configure the End Devices and Verify Connectivity
 
 - <b>Cisco packet tracer
 
+<img width="960" alt="cisco_packet_tracer_project" src="https://github.com/user-attachments/assets/cf881336-034d-417c-b020-c61e9a1d2b51" />
 
 
 <!--
