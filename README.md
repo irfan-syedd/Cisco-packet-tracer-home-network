@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Home Network</h1>
 
 
 
@@ -13,13 +13,13 @@ Part 2: Configure the End Devices and Verify Connectivity
 
 
 
+<h2>Project</h2>
+
+<img width="960" alt="cisco_packet_tracer_project" src="https://github.com/user-attachments/assets/cf881336-034d-417c-b020-c61e9a1d2b51" />
 
 <h2>Environments Used </h2>
 
 - <b>Cisco packet tracer
-
-<img width="960" alt="cisco_packet_tracer_project" src="https://github.com/user-attachments/assets/cf881336-034d-417c-b020-c61e9a1d2b51" />
-
 
 <!--
  ```diff
